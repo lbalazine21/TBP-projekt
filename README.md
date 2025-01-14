@@ -1,0 +1,3 @@
+- Za pokretanje aplikacije potrebno je preuzeti datoteke main.py i baza.pl te dodatne datoteke za font.
+- Sve datoteke potrebno je spremiti unutar istog direktorija.
+- Aplikacija se pokreće unutar terminala navigacijom do direktorija projekta i pokretanjem komande: python3 main.py
